@@ -1,6 +1,8 @@
 # Análise de Vendas de Video-Game
 
   Projeto Concluído
+
+  Link do projeto (https://public.tableau.com/app/profile/pedro.laender/viz/games_16690791192970/AnlisedeJogos?publish=yes)
 # Objetivo do Projeto
 
   Esse projeto tem o objetivo de analisar o comportamentos de vendas de vídeos games nos maiores mercados do mundo, a fim de verificar se existe uma Publisher, gênero ou mesmo título que se destaca dos demais em quantidade de unidades vendidas.
