@@ -17,7 +17,7 @@
   - Tableau
 # Descrição do Projeto
 
-  Essa base de dados foi retirada do Kaggle (https://www.kaggle.com/datasets/gregorut/videogamesales). Ela contém informações de vendas nos mercados dos EUA, Europa, Japão e restante do mundo. Para cada título, tem-se o gênero, a plataforma, a Publisher e o ano de lançamento.
+  Essa base de dados foi retirada do Kaggle (https://www.kaggle.com/datasets/gregorut/videogamesales). Ela contém informações de vendas nos mercados dos EUA, Europa, Japão e restante do mundo até 2016. Para cada título, tem-se o gênero, a plataforma, a Publisher e o ano de lançamento.
 
   Foram necssárias poucas modificações na base de dados: valores nulos de Publisher foram preenchidos e alguns outros pontos epsecíficos foram tratados.
 
