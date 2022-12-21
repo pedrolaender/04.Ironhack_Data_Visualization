@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/pedrolaender/04.Ironhack_Data_Visualization/blob/main/images/game.jpg?raw=true" />
+</p>
+
 # Análise de Vendas de Video-Game
 
   Projeto Concluído
@@ -25,10 +29,13 @@
 
 ## Desenvolvimento
 
-  Carat + Clarity          |  Carat + Color
-:-------------------------:|:-------------------------:
-![image](https://github.com/pedrolaender/03.Ironhack_Diamonds/blob/main/images/05.%20clarity.PNG?raw=true)   |   ![image](https://github.com/pedrolaender/03.Ironhack_Diamonds/blob/main/images/06.%20color%20.PNG?raw=true)
+  Para as análises realizadas nesse projeto foi desenvolvido um dashboard interativo no Tableau com 4 páginas conforme ilustrado nas imagens abaixo:
 
+  Dados Gerais        |  Dados dos Mercados
+:-------------------------:|:-------------------------:
+  <img src="https://github.com/pedrolaender/04.Ironhack_Data_Visualization/blob/main/images/slide%2001.PNG?raw=true" width="700"/>  |   <img src="https://github.com/pedrolaender/04.Ironhack_Data_Visualization/blob/main/images/slide%2002.PNG?raw=true" width="700"/>
+  **Top Jogos**          |  **Generos Japão**
+  <img src="https://github.com/pedrolaender/04.Ironhack_Data_Visualization/blob/main/images/slide%2003.PNG?raw=true" width="700"/>  |   <img src="https://github.com/pedrolaender/04.Ironhack_Data_Visualization/blob/main/images/slide%2004.PNG?raw=true" width="700"/>
   
   Durante o desenvolvimento do projeto foi possível perceber a predominância da Nintendo sobre as demais Publishers, ela domina os três maiores mercados mundiais (EUA, Europa e Japão), apresentando uma diferença ainda maior no mercado japonês. No restante do mundo ela perde para a Electronic Arts, cujas maioria dos jogos vendidos é do gênero Esportes.
 
