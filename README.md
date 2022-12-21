@@ -3,27 +3,27 @@
   Projeto Concluído
 
   Link do projeto (https://public.tableau.com/app/profile/pedro.laender/viz/games_16690791192970/AnlisedeJogos?publish=yes)
-# Objetivo do Projeto
+## Objetivo do Projeto
 
   Esse projeto tem o objetivo de analisar o comportamentos de vendas de vídeos games nos maiores mercados do mundo, a fim de verificar se existe uma Publisher, gênero ou mesmo título que se destaca dos demais em quantidade de unidades vendidas.
-# Métodos
+## Métodos
 
   - Filtro
   - Agrupamento
   - Visualização
   - Gráficos dinâmicos
-# Tecnologias 
+## Tecnologias 
 
   - Python
   - Pandas
   - Tableau
-# Descrição do Projeto
+## Descrição do Projeto
 
   Essa base de dados foi retirada do Kaggle (https://www.kaggle.com/datasets/gregorut/videogamesales). Ela contém informações de vendas nos mercados dos EUA, Europa, Japão e restante do mundo até 2016. Para cada título, tem-se o gênero, a plataforma, a Publisher e o ano de lançamento.
 
   Foram necssárias poucas modificações na base de dados: valores nulos de Publisher foram preenchidos e alguns outros pontos epsecíficos foram tratados.
 
-# Desenvolvimento
+## Desenvolvimento
 
   Carat + Clarity          |  Carat + Color
 :-------------------------:|:-------------------------:
@@ -38,8 +38,11 @@
 
   A EA Games, apesar de não ter seus títulos no TOP 10 jogos mais vendidos no mundo, conquista o segundo lugar de maior publisher com as suas franquias jogos de Esportes como FIFA, que são lançados a cada ano e Shooter como Battlefield.
 
-# Conclusão
+## Conclusão
   Apesar de estarem sempre lançando novos títulos, as grandes empresas se apoiam em suas franquias de maior sucesso para permanecer com sua parcela de mercado.
   
-# Contato
-  linkedin, github, medium, etc 
+## Contato
+
+  Pedro Laender
+  
+  Github - (https://github.com/pedrolaender)
