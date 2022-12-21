@@ -24,6 +24,11 @@
   Foram necssárias poucas modificações na base de dados: valores nulos de Publisher foram preenchidos e alguns outros pontos epsecíficos foram tratados.
 
 # Desenvolvimento
+
+  Carat + Clarity          |  Carat + Color
+:-------------------------:|:-------------------------:
+![image](https://github.com/pedrolaender/03.Ironhack_Diamonds/blob/main/images/05.%20clarity.PNG?raw=true)   |   ![image](https://github.com/pedrolaender/03.Ironhack_Diamonds/blob/main/images/06.%20color%20.PNG?raw=true)
+
   
   Durante o desenvolvimento do projeto foi possível perceber a predominância da Nintendo sobre as demais Publishers, ela domina os três maiores mercados mundiais (EUA, Europa e Japão), apresentando uma diferença ainda maior no mercado japonês. No restante do mundo ela perde para a Electronic Arts, cujas maioria dos jogos vendidos é do gênero Esportes.
 
